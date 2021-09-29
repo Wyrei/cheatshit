@@ -1,0 +1,9 @@
+je schrijft iets op in een readme.
+dan doe je git add .
+git status
+git commit -m "1" of git commit -m .
+git branch main
+git remote add link
+git push -u origin main
+git log 
+en dat was het wel
