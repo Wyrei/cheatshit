@@ -1,9 +1,9 @@
 je schrijft iets op in een readme.
 dan doe je git add .
-git status
-git commit -m "1" of git commit -m .
-git branch main
-git remote add link
-git push -u origin main
+dan git status om de status de zien
+doe git commit -m "1" of git commit -m . om de code de veranderen
+git branch main je veranderd je branch naar main in plaats van een master
+git remote add link nou maak je een conectie met github
+git push -u origin main nou push je het
 git log 
 en dat was het wel
